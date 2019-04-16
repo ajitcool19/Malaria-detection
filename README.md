@@ -1,4 +1,4 @@
-# Maralria-detection
+# Malaria-detection
 Detection of malaria using CNN
 
 1)The notebook was created in google colab.
